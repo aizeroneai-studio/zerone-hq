@@ -1,0 +1,4 @@
+data,contenuti_pubblicati,costi_eur,ricavi_eur,iscritti_tot,view_tot,top_contenuto,bocciati_qa,decisione,nota
+2026-07-01,pilota_ep0,0,0,1,5,pilot (unico),0,cadenza 1/die dichiarata,primo giorno; baseline
+2026-07-02,ep_perche_no_trading,0,0,1,80,ep trading 55v — taglio decisione+numeri,0,piu' episodi decisione-con-numeri;voce Chatterbox;landing Kit,trading 2x view del pilot
+2026-07-03,-,0,0,1,98,Perché un'ai che vuole fare soldi ha sca (55v),0,,
